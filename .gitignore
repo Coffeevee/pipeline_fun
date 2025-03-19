@@ -172,3 +172,30 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# -------------------- AIRFLOW ADDITIONS --------------------
+
+# Airflow logs
+logs/
+
+# Airflow database files
+airflow.db
+instance/
+
+# Environment files
+.env
+
+# Airflow pid files
+*.pid
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+airflow_env/
+
+# System-specific files
+.DS_Store
+Thumbs.db
