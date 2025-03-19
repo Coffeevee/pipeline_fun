@@ -2,7 +2,7 @@
 _Personal Project - Data Pipeline Sandbox_
 
 ## Introduction
-This is a personal sandbox for playing around with different data pipelines, Airflow orchestration, and data validation leveraging Airflow and Python libraries primarily.
+This is a personal sandbox for playing around with different data pipelines, orchestration, and validation leveraging Airflow and Python libraries primarily.
 
 In this project, I will also attempt to build a good documentation strategy for pipeline management, since I believe that is directly correlated with data engineering success on projects.
 
@@ -17,6 +17,9 @@ In this project, I will also attempt to build a good documentation strategy for 
     </td>
   </tr>
 </table>
+
+## How to run the project
+TODO: Add instructions here
 
 ## Pipeline Table of Contents
 [Find more about each individual pipeline here](Pipeline_Documentation)
