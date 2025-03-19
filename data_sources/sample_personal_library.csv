@@ -1,0 +1,6 @@
+title,author,genre,is_physical_copy,is_ebook_copy,ebook_platform,personal_rating
+"Pride and Prejudice","Jane Austen","Classic","Yes","No","","5"
+"1984","George Orwell","Dystopian","No","Yes","Kindle","4"
+"Becoming","Michelle Obama","Memoir","Yes","Yes","Google Play Books","5"
+"Dune","Frank Herbert","Science Fiction","No","Yes","Kobo","4"
+"The Great Gatsby","F. Scott Fitzgerald","Classic","Yes","No","","3"
